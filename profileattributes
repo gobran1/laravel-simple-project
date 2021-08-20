@@ -1,0 +1,15 @@
+project:
+    title
+    description
+    manger_id
+
+task:
+    title
+    description
+    user_id
+    project_id
+    status_code
+
+project_user:
+    user_id
+    task_id
